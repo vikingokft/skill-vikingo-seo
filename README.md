@@ -25,7 +25,7 @@ Nem audit-riportot ír, hanem **elvégzi** a belépőszintű beállításokat a 
 ## Telepítés
 
 ```bash
-git clone https://github.com/vikingokft/Vikingo-SEO-skill.git ~/.claude/skills/vikingo-seo-skill
+git clone https://github.com/vikingokft/tool-vikingo-seo.git ~/.claude/skills/vikingo-seo-skill
 ```
 
 Ennyi — a következő Claude Code sessionben már elérhető. (Projekt-szintű telepítéshez a projekt `.claude/skills/` mappájába másold.)
